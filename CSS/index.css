@@ -6,8 +6,12 @@ body{
     text-align: center;
 }
 
-banner{
-
+.top{
+    width: 1215px;
+    height: auto;
+    margin: 0 auto;
+    alignment: center;
+    text-align: center;
 }
 
 .topback{
