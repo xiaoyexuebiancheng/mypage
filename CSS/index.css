@@ -1,0 +1,79 @@
+body{
+    width: 1215px;
+    height: auto;
+    margin: 0 auto;
+    alignment: center;
+    text-align: center;
+}
+
+.topback{
+    background: cornsilk;
+    height: 53px;
+}
+
+.topstyle{
+    width: 180px;
+    float: left;
+}
+.topstyle2{
+    float: left;
+}
+
+
+.topcolor{
+    background: bisque;
+}
+
+.banner{
+    background: lightgreen;
+    height: 57px;
+}
+
+.banner .mystyle{
+    align-content: center;
+    margin: 0 auto;
+}
+
+.banner .fisrt{
+    width: 1020px;
+    float: left;
+}
+
+.banner .myinput{
+    height: 34px;
+    margin-top: 8px;
+}
+
+.mycomment{
+    height: 20px;
+    padding: 10px;
+    border: 1px solid;
+}
+
+.mycomment span{
+    width: auto;
+    padding-right: 80px;
+    text-align: center;
+}
+
+a:link{                        /*鼠标未接触*/
+    color: aqua;
+    text-decoration: none;
+}
+
+
+a:hover{                      /*鼠标在接触*/
+    color: white;
+    background: red;
+}
+
+
+a:active{                    /*鼠标按下*/
+    color: black;
+    background: white;
+}
+
+
+a:visited{
+
+}
