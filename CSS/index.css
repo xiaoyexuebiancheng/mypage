@@ -10,6 +10,36 @@ body{
     width: 1200px;
     height: auto;
     margin: 0 auto;
+    text-align: left;
+}
+
+p{
+    font-size: 20px;
+    color:white;
+    text-indent:2em
+}
+
+a{
+
+    margin: 30px 30px 30px 30px;
+}
+
+button{
+    background-image: url("../images/button1.jpg");
+    margin-bottom: 10px;
+    padding: 10px 10px 10px 10px;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 25px;
+}
+.divbutton{
+    width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    border: white solid 5px;
+    border-radius: 10px;
+    text-align: left;
 }
 
 .top{
