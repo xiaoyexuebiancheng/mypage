@@ -1,36 +1,25 @@
 body{
-    width: 1215px;
+    width: 1200px;
     height: auto;
     margin: 0 auto;
     alignment: center;
     text-align: center;
+}
+
+.divModel{
+    width: 1200px;
+    height: auto;
+    margin: 0 auto;
 }
 
 .top{
-    width: 1215px;
-    height: auto;
+    width: 1200px;
+    height: 90px;
     margin: 0 auto;
     alignment: center;
     text-align: center;
 }
 
-.topback{
-    background: cornsilk;
-    height: 53px;
-}
-
-.topstyle{
-    width: 180px;
-    float: left;
-}
-.topstyle2{
-    float: left;
-}
-
-
-.topcolor{
-    background: bisque;
-}
 
 .banner{
     background: lightgreen;
@@ -65,7 +54,7 @@ body{
 }
 
 a:link{                        /*鼠标未接触*/
-    color: aqua;
+    color: deeppink;
     text-decoration: none;
 }
 
