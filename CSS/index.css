@@ -1,5 +1,5 @@
 body{
-    width: 1200px;
+    width: 1080px;
     height: auto;
     margin: 0 auto;
     alignment: center;
@@ -7,7 +7,7 @@ body{
 }
 
 .divModel{
-    width: 1200px;
+    width: 1080px;
     height: auto;
     margin: 0 auto;
     text-align: left;
@@ -34,7 +34,7 @@ button{
     border-radius: 25px;
 }
 .divbutton{
-    width: 1200px;
+    width: 1070px;
     height: auto;
     margin: 0 auto;
     border: white solid 5px;
@@ -43,7 +43,7 @@ button{
 }
 
 .top{
-    width: 1200px;
+    width: 1080px;
     height: 90px;
     margin: 0 auto;
     alignment: center;
