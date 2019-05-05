@@ -4,6 +4,7 @@ body{
     margin: 0 auto;
     alignment: center;
     text-align: center;
+    background: url("../images/grain.jpg");
 }
 
 .divModel{
